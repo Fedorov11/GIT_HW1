@@ -1,1 +1,13 @@
-
+<bug>
+  <p1>Summary</p1>,
+  <p2>Project</p1>,
+  <p3>Component</p3>,
+  <p4>Version</p4>,
+  <p5>Severity</p5>,
+  <p6>Priority</6>,
+  <p7>Steps to reproduce</p7>,
+  <p8>Actual result</p8>,
+  <p9>Expected rusult</p9>.
+  <p10>Additional information</p10>
+<bug>
+ 
